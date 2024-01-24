@@ -1,0 +1,7 @@
+The number of times you have been to Ted Drewes					int
+Whether you like Ted Drewes’ vanilla frozen custard or not		boolean
+The number of people you can take in your car					int
+The price of a regular size concrete vanilla frozen custard		double
+The name of your favorite flavor from Ted Drewes				string
+The address of the Ted Drewes									string
+The probability that you will see a friend at Ted Drewes		double
