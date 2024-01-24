@@ -11,9 +11,7 @@ public class Average {
 		System.out.println("The second of two integers to be averaged?");
 		int n2 = in.nextInt();
 		
-		double n2Double = n2;
-		
-		double result = n1 / n2Double;
+		double result = (n1 + n2) / 2.0;
 		
 		System.out.println(result);
 	}
